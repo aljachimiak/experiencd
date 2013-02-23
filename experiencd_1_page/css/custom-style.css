@@ -1,0 +1,55 @@
+/*---custom-style.css---*/
+
+textarea {
+	display: inline;
+	min-height: 180px;
+	width: 100%;
+	font-family: 'Rufina', mono;
+	
+}
+
+form {
+	margin-bottom: 0px !important;
+}
+
+.stats {
+	display: none;
+	text-decoration: none;
+}
+
+.clickable {
+	text-decoration: none;
+	color: #d9230f;
+}
+
+#get-info {
+	margin-right: -10px;
+}
+
+#filler-text{
+	font-size: 12px;
+	margin-bottom: 20px;
+		margin-right: -10px;
+}
+
+#hide-filler{
+	display: none;
+	font-size: 12px;
+	margin-bottom: 20px;
+	margin-right: -10px;
+}
+
+.fancy-number{
+	padding: 62px;
+	font-size: 60px;
+	font-weight: bold;
+
+}
+
+#hide-filler :hover{
+	cursor: pointer;
+}
+
+#filler-text :hover{
+	cursor:pointer;
+}

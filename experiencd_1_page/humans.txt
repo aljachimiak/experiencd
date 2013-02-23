@@ -1,0 +1,33 @@
+humans.txt
+
+
+
+                            
+/* Catalyst Custom Technology Consulting */
+
+                            
+Founder: Al Jachimiak
+
+                            
+Site: catalystctc.com
+
+                            
+Twitter: @M3nt_Al
+
+                            
+Location: Hudson Valley, NY, USA.
+						
+
+							
+/* THANKS */
+
+
+                            
+/* SITE */
+
+                            
+Last update: YYYY/MM/DD 
+  
+Components: Modernizr, jQuery, Bootstrap, Font-Awesome, Google-Fonts, Bootswatch
+
+                         
